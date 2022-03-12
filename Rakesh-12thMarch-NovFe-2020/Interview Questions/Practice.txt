@@ -1,0 +1,5 @@
+1. What is AJAX?
+2. What are the advantages of AJAX?
+3. What are the disadvantages of AJAX?
+4. What are the real web applications of AJAX currently running in the market?
+5. What are the security issues with AJAX?
